@@ -20,8 +20,6 @@ if(salario <= 1212){
 //window.alert(inss);
 }
 
-}
-
 else if (salario >= 1213 && salario <= 2427)
 { 
     inss = Number(salario) * Number(0.09)
